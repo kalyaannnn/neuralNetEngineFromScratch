@@ -1,4 +1,4 @@
-# Autograd Engine
+# smolGrad
 
 minimalistic implementation of an autograd engine.
 
